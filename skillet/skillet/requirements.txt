@@ -1,0 +1,6 @@
+# requirements.txt
+aiortc
+pykos
+pytest
+setuptools
+colorlogging
