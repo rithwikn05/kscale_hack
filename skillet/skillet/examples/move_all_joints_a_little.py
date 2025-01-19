@@ -12,8 +12,8 @@ import traceback
 import colorlogging
 
 # Local imports
-from skillet.examples.move_joint_a_little import move_joint_a_little
-from skillet.setup.maps import ACTUATOR_NAME_TO_ID
+from skillet.skillet.examples.move_joint_a_little import move_joint_a_little
+from skillet.skillet.setup.maps import ACTUATOR_NAME_TO_ID
 
 # Constants
 MOVE_DEGREES = 1.0  # A small, safe amount to move each joint
